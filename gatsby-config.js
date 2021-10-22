@@ -7,7 +7,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Sander Yazıcıoğlu`,
   },
   plugins: [
     {
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
+        name: `Sander Yazıcıoğlu`,
+        short_name: `Sanderyaz`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
         background_color: `#141821`,
